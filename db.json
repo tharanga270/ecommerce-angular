@@ -25,10 +25,16 @@
       "id": 4
     },
     {
-      "name": "bruse",
+      "name": "alena",
       "password": "abc@123",
-      "email": "bruse@test.com",
+      "email": "alena@test.com",
       "id": 5
+    },
+    {
+      "name": "tharaka",
+      "password": "abc@123",
+      "email": "tharaka@test.com",
+      "id": 6
     }
   ]
 }

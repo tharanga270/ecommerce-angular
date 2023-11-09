@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { SellerService } from './services/seller.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ecommerce-angular';
+  title = 'ecommerce-angular';  
 }
