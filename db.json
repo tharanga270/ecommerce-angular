@@ -36,5 +36,25 @@
       "email": "tharaka@test.com",
       "id": 6
     }
+  ],
+  "products": [
+    {
+      "name": "samsung m 40",
+      "price": "25000",
+      "category": "mobile",
+      "color": "black",
+      "description": "a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 1
+    },
+    {
+      "name": "iphone 14",
+      "price": "350000",
+      "category": "mobile",
+      "color": "gold",
+      "description": "An apple product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 2
+    }
   ]
 }
